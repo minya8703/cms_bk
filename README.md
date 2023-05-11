@@ -5,6 +5,17 @@ Use : Spring, Jpa, Mysql, Redis, Docker, AWS
 
 Goal : 셀러와 구매자 사이를 중개홰 주는 커머스 서버를 구축한다.
 
+## 사용 기술 및 버전
+Java 8
+Database: 
+RDB:Mysql
+Non-Relation DBMS : Redis
+
+Test : Junit5
+Build : Gradle
+Login Token: JWT
+Test UI : Swagger
+
 ## 회원
 ### 공통
 - [ ] 이메일을 통해서 인증번호를 통한 회원가입
